@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SarimAliBAloch
+- 👋 Hi, I’m @SarimAliBaloch
 - 👀 I’m interested in becoming a full stack developer
 - 🌱 I’m currently learning html, css and javascript.
 - 📫 How to reach me : Gmail: balochsarim@gmail.com
