@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SarimAliBaloch
-- 👀 I’m interested in becoming a full stack developer
-- 🌱 I’m currently learning html, css and javascript.
+- 👀 I’m am a full stack developer
+- 🌱 I’m currently know html, css and javascript, Node.js, Express, React.
 - 📫 How to reach me : Gmail: balochsarim@gmail.com
 - 😄 Pronouns: He/Him .
 - ⚡ Fun fact: Goofy Yet Serious...
